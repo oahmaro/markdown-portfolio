@@ -1,0 +1,3 @@
+- Effective Typescript
+- JavaScript Everywhere
+- Learning React
